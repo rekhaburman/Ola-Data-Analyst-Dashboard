@@ -1,2 +1,32 @@
 # Ola-Data-Analyst-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboard and tables to analyze the data.  this process involve several stages, including data preprocessing, data cleaning, and data Visualization.
+
+## project objective 
+
+To analyze ride-sharing data using SQL and visualize key metrics through an interactive Power BI dashboard, providing insights into customer behavior, operational efficiency, and revenue generation.
+
+## Dataset used
+
+<a href="https://github.com/rekhaburman/Ola-Data-Analyst-Dashboard/blob/master/Ola%20Data%20Analyst.xlsx">Dataset</a>
+
+## Question(KPIs)
+- Retrieve all successful bookings
+- Get the total number of canceled rides by customers
+- List the top 5 customers who booked the highest number of rides
+- Get the number of rides canceled by drivers due to personal and car-related issues
+- Find the maximum and minimum driver rating for Prime Sedan bookings
+- Retrieve all rides where payment was made using UPI
+- Find the average customer rating per vehicle type
+- Calculate the total booking value of successfully completed rides
+- List all incomplete rides along with reasons
+
+Dashboard Interaction <a href="https://github.com/rekhaburman/Ola-Data-Analyst-Dashboard/blob/master/Overall.png">Overall Dashboard</a>
+
+Dashboard Interaction <a href="https://github.com/rekhaburman/Ola-Data-Analyst-Dashboard/blob/master/Vehicle_Type.png">Vehicle Dashboard</a>
+
+Dashboard Interaction <a href="https://github.com/rekhaburman/Ola-Data-Analyst-Dashboard/blob/master/Cancellation.png">Cancellation Dashboard</a>
+
+Dashboard Interaction <a href="https://github.com/rekhaburman/Ola-Data-Analyst-Dashboard/blob/master/Revanue.png">Revanue Dashboard</a>
+
+Dashboard Interaction <a href="https://github.com/rekhaburman/Ola-Data-Analyst-Dashboard/blob/master/Ratings.png">Ratings Dashboard</a>
+
+
