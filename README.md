@@ -45,3 +45,8 @@ Dashboard Interaction <a href="https://github.com/rekhaburman/Ola-Data-Analyst-D
 Dashboard Interaction <a href="https://github.com/rekhaburman/Ola-Data-Analyst-Dashboard/blob/master/Ratings.png">Ratings Dashboard</a>
 
 
+## Final Conclusion
+
+This project highlights how data analytics can help improve ride-sharing services. By using SQL to analyze data and Power BI to create easy-to-understand visualizations, we uncovered valuable insights about ride performance, customer preferences, and revenue trends. These insights can guide better decisions to enhance customer satisfaction and optimize operations.
+
+
